@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jw44623/post-install-config)
  
 - <b>Virtual Private Networks (VPN)
-  - [osTicket: Prerequisites and Installation](https://github.com/jw44623/osticket-prereqs) 
+  - [Setup and Usage](https://github.com/jw44623/osticket-prereqs) 
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
