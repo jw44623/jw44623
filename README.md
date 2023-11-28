@@ -2,6 +2,10 @@
 
 <h2> Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/jw44623/Active-Directory)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jw44623/Network-Security-Groups)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jw44623/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jw44623/post-install-config)
@@ -9,9 +13,6 @@
 - <b>Virtual Private Networks (VPN)
   - [Setup and Usage](https://github.com/jw44623/Proton-VPN.git) 
 
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jw44623/Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jw44623/Network-Security-Groups)
 
 <h2>Connect with me:</h2>
 
