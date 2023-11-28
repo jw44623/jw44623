@@ -11,7 +11,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jw44623/Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jw44623/New-Security-Groups)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jw44623/Network-Security-Groups)
 
 <h2>Connect with me:</h2>
 
